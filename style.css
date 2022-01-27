@@ -13,14 +13,6 @@
     z-index: 9999;
     position: fixed;
 }
-.flexes{
-    display: flex;
-    padding-top: 10px;
-    justify-content: space-around;
-    /* text-align: center; */
-    margin: auto;
-    padding-left: 260px; 
-}
 
 .prize_head{
     color: #C7CBD6;
@@ -532,6 +524,41 @@ a{
 }
 
 
+
+.header{
+    position: relative;
+}
+.header{
+    position: absolute;
+    top: 0;
+    position: fixed;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .anim_1{
     position: relative;
     overflow: hidden;
@@ -556,4 +583,5 @@ a{
 .anim_1:hover .bottom1_container{
     display: none;
 }
+
 
